@@ -1,0 +1,18 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #cfe0fd;
+}
+.foto1 {
+    border-radius: 50%;
+}
+#projects {
+    background-color: #cfe0fd;
+}
+
+.gallery-img {
+    width: 100%;
+}
+
+/* #gallery .row > * {
+    padding: 0;
+} */
